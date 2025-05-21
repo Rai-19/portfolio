@@ -13,8 +13,8 @@
 /*メールアドレス*/
 .E-mail {
   position: relative;
-  top: 200px;
-  left: 250px;
+  top: 100px;
+  left: 100px;
   font-size: 20px;
 }
 .E-mail-send {
@@ -31,8 +31,8 @@
 /*件名*/
 .subject {
   position: relative;
-  top: 300px;
-  left: 250px;
+  top: 150px;
+  left: 100px;
   font-size: 20px;
 }
 .subject-send {
@@ -49,8 +49,8 @@
 /*内容*/
 .detail {
   position: relative;
-  top: 200px;
-  left: 650px;
+  top: 100px;
+  left: 500px;
   font-size: 20px;
 }
 .detail-box {
