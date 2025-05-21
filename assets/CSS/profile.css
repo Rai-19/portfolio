@@ -1,0 +1,56 @@
+@charset "UFT-8";
+
+
+/*私の事*/
+
+.myself {
+  position: absolute;
+  top: 5px;
+  left: 600px;
+  text-align: center;
+  font-size: 25px;
+  margin: 80px auto;
+}
+
+/*自己紹介*/
+.portrait {
+  grid-area: portrait;
+  text-align: left;
+  margin-top: 20px;
+  margin-left: 15%;
+  display: flex;
+}
+
+/* 似顔絵 */
+.img {
+  width: 300px;
+  height: 400px;
+  position: relative;
+  top: 50px;
+  left: 50px;
+}
+
+/* プロフィール */
+
+.history{
+  list-style: none;
+  margin-left: 50px;
+  font-size: 25px;
+}
+
+/* 経歴 */
+
+.career{
+text-align: left;
+font-size: 25px;
+margin-top: 25px;
+margin-left: 150px;
+}
+
+.career h2{
+  margin: 10px;
+}
+
+.career li{
+  list-style: none;
+}

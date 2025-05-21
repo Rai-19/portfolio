@@ -1,0 +1,79 @@
+@charset "UTF-8";
+
+
+/*タイトル*/
+.contact {
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  font-size: 35px;
+  transform: translate(-50%, -50%);
+}
+
+/*メールアドレス*/
+.E-mail {
+  position: absolute;
+  top: 200px;
+  left: 300px;
+  font-size: 20px;
+}
+.E-mail-send {
+  margin-right: 20px;
+}
+.E-mail-box {
+  background-color: rgb(154, 155, 157);
+  border-radius: 10px;
+  outline: solid 2px #6392ea;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+/*件名*/
+.subject {
+  position: absolute;
+  top: 300px;
+  left: 300px;
+  font-size: 20px;
+}
+.subject-send {
+  margin-right: 100px;
+}
+.subject-box {
+  background-color: rgb(154, 155, 157);
+  border-radius: 10px;
+  outline: solid 2px #6392ea;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+/*内容*/
+.detail {
+  position: absolute;
+  top: 200px;
+  left: 700px;
+  font-size: 20px;
+}
+.detail-box {
+  background-color: rgb(154, 155, 157);
+  width: 500px;
+  height: 300px;
+  border-radius: 10px;
+  outline: solid 2px #6392ea;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+.send {
+  font-size: 30px;
+  position: absolute;
+  top: 80%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+}
+.reset {
+  font-size: 30px;
+  position: absolute;
+  top: 80%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+}
