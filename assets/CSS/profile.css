@@ -17,7 +17,7 @@
   grid-area: portrait;
   text-align: left;
   margin-top: 20px;
-  margin-left: 15%;
+  margin-left: 50px;
   display: flex;
 }
 
@@ -34,7 +34,8 @@
 
 .history{
   list-style: none;
-  margin-left: 50px;
+  margin-top: 20px;
+  margin-left: 30px;
   font-size: 25px;
 }
 
@@ -43,7 +44,7 @@
 .career{
 text-align: left;
 font-size: 25px;
-margin-top: 25px;
+margin-top: 150px;
 margin-left: 150px;
 }
 

@@ -8,7 +8,7 @@
     <div class="section" id="section1"></div>
     <div class="portrait">
       <img class="img" src="<?php echo get_template_directory_uri() ?>/assets/img/nigaoe.PNG" alt="似顔絵" />
-      <div class="history ">
+      <div class="history">
         <h2>自己紹介</h2>
         <p>1991年　徳島県勝浦郡勝浦町生まれ<br>　学生の頃から接客業務、生命保険の営業、金融窓口事務などお金にまつわる業務をそれぞれ務めておりました。コンビニや本屋などでレジ打ちを通して接客業務に携わり、コミュニケーション能力を培ってきました。
           　その経験のお陰で生命保険の営業で、新規顧客開拓に役立ちました。顧客のニーズを丁寧にヒアリングし、課題解決に繋がる提案をすることで、顧客満足度向上に貢献しました。
