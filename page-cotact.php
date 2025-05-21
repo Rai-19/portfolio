@@ -3,6 +3,11 @@
 <link rel="stylesheet" href="<?php echo get_template_directory_uri() ?>/assets/CSS/cotact.css" />
 
 <main>
+
+  <div class="link">
+    <a href="./top.html">トップページに戻る</a>
+  </div>
+
   <h1 class="contact">連絡はこちらへ</h1>
   <div class="E-mail">
     <div class="E-mail-send">メールアドレス</div>
