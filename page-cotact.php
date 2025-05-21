@@ -8,8 +8,10 @@
     <a href="./top.html">トップページに戻る</a>
   </div>
 
+  <h1 class="contact">連絡はこちらへ</h1>
+
   <div class="display">
-    <h1 class="contact">連絡はこちらへ</h1>
+
     <div class="E-mail">
       <div class="E-mail-send">メールアドレス</div>
       <input class="E-mail-box" [type=email]></input>
