@@ -1,6 +1,6 @@
 <?php get_header('link'); ?>
 
-
+<link rel="stylesheet" href="<?php echo get_template_directory_uri() ?>/assets/CSS/notice.css" />
 
 <main>
   <h1 class="title">SMS</h1>

@@ -1,5 +1,6 @@
 <?php get_header('link'); ?>
 
+<link rel="stylesheet" href="<?php echo get_template_directory_uri() ?>/assets/CSS/work.css" />
 
 <main>
   <h1 class="title">仮想案件掲載ページ</h1>
