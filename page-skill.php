@@ -1,5 +1,5 @@
 <?php get_header('link'); ?>
-<link rel="stylesheet" href="<?php echo get_template_directory_uri() ?>/assets/CSS/skill.css" />
+
 
 
 <main>
