@@ -24,46 +24,44 @@ function connect_add_scripts()
         get_template_directory_uri() . '/assets/css/common.css'
     );
 
-    if (is_home()) {
-        wp_enqueue_style(
-            'connect_top',
-            get_template_directory_uri() . '/assets/css/top.css'
-        );
-    } elseif (is_page('profile')) {
-        //プロフィール
-        wp_enqueue_style(
-            'connect_profile',
-            get_template_directory_uri() . '/assets/css/profile.css'
-        );
-    } elseif (is_page('skill')) {
-        // スキル
-        wp_enqueue_style(
-            'connect_skill',
-            get_template_directory_uri() . '/assets/css/skill.css'
-        );
-    } elseif (is_page('work')) {
-        // 仕事
-        wp_enqueue_style(
-            'connect_work',
-            get_template_directory_uri() . '/assets/css/work.css'
-        );
-    } elseif (is_page('hobby')) {
-        // 趣味
-        wp_enqueue_style(
-            'connect_hobby',
-            get_template_directory_uri() . '/assets/css/cotact.css'
-        );
-    } elseif (is_page('notice')) {
-        // お知らせ
-        wp_enqueue_style(
-            'connect_notice',
-            get_template_directory_uri() . '/assets/css/notice.css'
-        );
-    } elseif (is_page('cotact')) {
-        // コンタクト
-        wp_enqueue_style(
-            'connect_cotact',
-            get_template_directory_uri() . '/assets/css/cotact.css'
-        );
-    }
+    wp_enqueue_style(
+        'connect_top',
+        get_template_directory_uri() . '/assets/css/top.css'
+    );
+
+    //プロフィール
+    wp_enqueue_style(
+        'connect_profile',
+        get_template_directory_uri() . '/assets/css/profile.css'
+    );
+
+    // スキル
+    wp_enqueue_style(
+        'connect_skill',
+        get_template_directory_uri() . '/assets/css/skill.css'
+    );
+
+    // 仕事
+    wp_enqueue_style(
+        'connect_work',
+        get_template_directory_uri() . '/assets/css/work.css'
+    );
+
+    // 趣味
+    wp_enqueue_style(
+        'connect_hobby',
+        get_template_directory_uri() . '/assets/css/cotact.css'
+    );
+
+    // お知らせ
+    wp_enqueue_style(
+        'connect_notice',
+        get_template_directory_uri() . '/assets/css/notice.css'
+    );
+
+    // コンタクト
+    wp_enqueue_style(
+        'connect_cotact',
+        get_template_directory_uri() . '/assets/css/cotact.css'
+    );
 };
