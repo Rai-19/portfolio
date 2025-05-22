@@ -1,6 +1,6 @@
 <?php get_header('contact'); ?>
 
-<link rel="stylesheet" href="<?php echo get_template_directory_uri() ?>/assets/CSS/contact.css" />
+<!-- <link rel="stylesheet" href="<?php echo get_template_directory_uri() ?>/assets/CSS/contact.css" /> -->
 
 <main>
 
