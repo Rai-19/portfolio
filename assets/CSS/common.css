@@ -175,7 +175,7 @@ body {
 .display{
   width: 1200px;
   height: 550px;
-  background-color: rgba(66, 69, 103, 0.11);
+  /* background-color: rgba(66, 69, 103, 0.11); */
   position: absolute;
   top: 55%;
   left: 50%;
