@@ -25,7 +25,7 @@
   <img src="<?php echo get_template_directory_uri(); ?>/assets/img/cloud.png" class="kumo-5">
   <!--月-->
   <div class="moon"></div>
-  <!-- 雪 -->
+  <!-- 桜 -->
   <div class="area">
     <div class="circles">
       <img src="<?php echo get_template_directory_uri(); ?>/assets/img/sakura.png"></img>
