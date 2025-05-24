@@ -1,0 +1,165 @@
+@charset "UTF-8";
+
+.wrap {
+  font-family: Arial, sans-serif;
+  font-size: 2rem;
+  width: 100vw;
+  height: 100%;
+}
+
+.wa {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+}
+
+.section {
+  z-index: 2000;
+}
+
+.content {
+  height: 110vh; /* スクロールを作るための高さ */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.list {
+  position: fixed;
+  top: 300px;
+  left: 20px;
+  list-style: none;
+}
+.list li {
+  font-size: 1.5rem;
+  padding: 5px;
+  color: rgba(0, 0, 0, 0.76); /* 初期状態 */
+  transition: color 0.3s ease; /* なめらかな変化 */
+  z-index: 2000;
+}
+.list li:hover {
+  color: rgb(76, 140, 175); /* アクティブ時の色 */
+  font-weight: bold;
+}
+
+/*Keine Reaktion*/
+.active {
+  color: rgb(177, 35, 132) !important; /* アクティブ時の色 */
+  font-weight: bold !important; /* 文字を太くする */
+}
+/*!important 反応がないため*/
+
+.section {
+  height: 100vh; /* 各セクションの高さ */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+}
+
+/*スクロールバー非表示*/
+::-webkit-scrollbar {
+  display: none;
+}
+
+/*朝礼*/
+.content h1 {
+  font-size: 45px;
+  text-align: center;
+}
+
+/*伝えたい事*/
+.title {
+  font-size: 35px;
+  text-align: center;
+}
+.title h2 {
+  margin-top: 50px;
+}
+
+/*テーマ*/
+.theme {
+  font-size: 35px;
+  text-align: center;
+}
+
+.theme p {
+  font-size: 30px;
+  text-align: left;
+  width: 1100px;
+  margin-top: 50px;
+}
+
+.Problem {
+  margin: 50px auto;
+}
+
+.Problem h1 {
+  font-size: 30px;
+  text-align: left;
+  width: 1000px;
+  margin: 10px;
+}
+
+/*くろまる*/
+
+.hidden {
+  margin-top: -50px;
+  display: none;
+}
+
+.box {
+  width: 1000px;
+  height: 800px;
+}
+
+.section4 {
+  height: 1000px;
+}
+
+.dewegen {
+  text-align: center;
+  margin-top: 80px;
+  background-color: #2e7d327e;
+  width: 350px;
+  height: 80px;
+  position: absolute;
+  left: 600px;
+  border-radius: 50px;
+  border: 3px solid #2e7d32;
+  padding: 8px 20px;
+  font-size: 18px;
+  color: #a4d6d2;
+  border-radius: 30px;
+  font-family: "Noto Serif JP", serif;
+  transition: all 0.3s ease;
+}
+.dewegen a {
+  position: relative;
+  top: 15px;
+  font-size: 25px;
+}
+
+.dewegen:hover {
+  background: #2e7d32;
+  color: white;
+  box-shadow: 10px 10px 10px grey;
+}
+
+.CL h1 {
+  text-align: center;
+  margin: 10px auto;
+}
+
+.KR {
+  width: 10px;
+  height: 10px;
+  background-color: rgba(0, 0, 255, 0.13);
+  position: fixed;
+  top: 710px;
+  left: 1530px;
+  z-index: 200;
+}
