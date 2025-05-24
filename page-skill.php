@@ -15,7 +15,7 @@
       <script async src="https://public.codepenassets.com/embed/index.js"></script>
     </div>
     <div class="card section" id="section2">
-      <h2>CSS</h2>
+      <h2>ポーカー</h2>
       <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="vEYJjeW" data-pen-title="ポーカー" data-user="jddijmdi-the-builder" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
         <span>See the Pen <a href="https://codepen.io/jddijmdi-the-builder/pen/vEYJjeW">
             ポーカー</a> by Naomi (<a href="https://codepen.io/jddijmdi-the-builder">@jddijmdi-the-builder</a>)
@@ -33,7 +33,8 @@
       <script async src="https://public.codepenassets.com/embed/index.js"></script>
     </div>
     <div class="card section" id="section4">
-      <h2>PHP</h2>
+      <h2>仮想WEBページ</h2>
+
     </div>
     <div class="card section" id="section5">
       <h2>WordPress</h2>
