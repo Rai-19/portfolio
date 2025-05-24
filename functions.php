@@ -12,18 +12,19 @@ function my_wpcf7_autop()
 
 function connect_add_scripts()
 {
-    // ２、リセットCSS
+    // リセットCSS
     wp_enqueue_style(
         'connect_destyle',
         get_template_directory_uri() . '/assets/css/destyle.css'
     );
 
-    // ３、共通CSS
+    // 共通CSS
     wp_enqueue_style(
         'connect_common',
         get_template_directory_uri() . '/assets/css/common.css'
     );
 
+    // top CSS
     wp_enqueue_style(
         'connect_top',
         get_template_directory_uri() . '/assets/css/top.css'

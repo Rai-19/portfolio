@@ -1,6 +1,6 @@
-<?php get_header('link'); ?>
+<?php get_header('cotact'); ?>
 
-<!-- <link rel="stylesheet" href="<?php echo get_template_directory_uri() ?>/assets/CSS/skill.css" /> -->
+<link rel="stylesheet" href="<?php echo get_template_directory_uri() ?>/assets/CSS/skill.css" />
 
 <main>
   <h1 class="title">取得スキル</h1>

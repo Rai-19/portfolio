@@ -14,7 +14,7 @@
 .E-mail {
   position: relative;
   top: 100px;
-  left: 100px;
+  left: 150px;
   font-size: 20px;
 }
 .E-mail-send {
@@ -32,7 +32,7 @@
 .subject {
   position: relative;
   top: 150px;
-  left: 100px;
+  left: 150px;
   font-size: 20px;
 }
 .subject-send {
