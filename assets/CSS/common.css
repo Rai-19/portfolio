@@ -221,9 +221,9 @@ body {
 
 /*Keine Reaktion*/
 .active {
-  color: snow !important; /* アクティブ時の色 */
+  color: rgb(56, 72, 214) !important; /* アクティブ時の色 */
   font-weight: bold !important; /* 文字を太くする */
-  font-size: 35px !important;
+  font-size: 30px !important;
 }
 /*!important 反応がないため*/
 

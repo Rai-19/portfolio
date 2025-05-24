@@ -6,7 +6,7 @@
 .myself {
   position: absolute;
   top: 5px;
-  left: 600px;
+  left: 650px;
   text-align: center;
   font-size: 25px;
   margin: 80px auto;
@@ -17,7 +17,7 @@
   grid-area: portrait;
   text-align: left;
   margin-top: 20px;
-  margin-left: 50px;
+  margin-left: 150px;
   display: flex;
 }
 

@@ -25,10 +25,10 @@
                 <a href="./top.html">トップページに戻る</a>
             </div>
             <ul class="list">
-                <li data-target="section1"><a href="#section1">ー</a></li>
-                <li data-target="section2"><a href="#section2">ー</a></li>
-                <li data-target="section3"><a href="#section3">ー</a></li>
-                <li data-target="section4"><a href="#section4">ー</a></li>
-                <li data-target="section5"><a href="#section5">ー</a></li>
+                <li data-target="section1"><a href="#section1">自己紹介</a></li>
+                <li data-target="section2"><a href="#section2">経歴</a></li>
+                <li data-target="section3"><a href="#section3">スキル</a></li>
+                <li data-target="section4"><a href="#section4">PR</a></li>
+                <li data-target="section5"><a href="#section5">学んだこと</a></li>
             </ul>
         </header>
