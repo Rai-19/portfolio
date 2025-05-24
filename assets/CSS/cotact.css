@@ -13,8 +13,8 @@
 /*メールアドレス*/
 .E-mail {
   position: relative;
-  top: 100px;
-  left: 150px;
+  top: 70px;
+  left: 200px;
   font-size: 20px;
 }
 .E-mail-send {
@@ -26,13 +26,14 @@
   outline: solid 2px #6392ea;
   margin-top: 20px;
   padding: 10px;
+  width: 200px;
 }
 
 /*件名*/
 .subject {
   position: relative;
-  top: 150px;
-  left: 150px;
+  top: 120px;
+  left: 200px;
   font-size: 20px;
 }
 .subject-send {
@@ -44,12 +45,14 @@
   outline: solid 2px #6392ea;
   padding: 20px;
   margin-top: 20px;
+  width: 200px;
+
 }
 
 /*内容*/
 .detail {
   position: relative;
-  top: -100px;
+  top: -130px;
   left: 500px;
   font-size: 20px;
 }
@@ -66,14 +69,10 @@
 .send {
   font-size: 30px;
   position: relative;
-  top: 85%;
+  top: 80%;
   left: 50%;
   transform: translate(-50%, -50%);
-}
-.reset {
-  font-size: 30px;
-  position: relative;
-  top: 85%;
-  left: 35%;
-  transform: translate(-50%, -50%);
+  background-color: rgb(70, 70, 200);
+  width: 150px;
+  height: 50px;
 }

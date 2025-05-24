@@ -25,8 +25,8 @@
       <textarea class="detail-box" [type=textarea]></textarea>
     </div>
     <div>
-      <button class="reset">リセット</button>
-      <button class="send">送信</button>
+
+      <button class="send">確認</button>
     </div>
   </div>
 
