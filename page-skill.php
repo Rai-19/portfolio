@@ -33,11 +33,11 @@
       <script async src="https://public.codepenassets.com/embed/index.js"></script>
     </div>
     <div class="card section" id="section4">
-      <h2>仮想WEBページ</h2>
 
-    </div>
-    <div class="card section" id="section5">
-      <h2>WordPress</h2>
+      <a href="<?php echo get_template_directory_uri() ?>/page-floato.php">
+        <h2>仮想WEBページ</h2>
+      </a>
+
     </div>
   </div>
 </main>

@@ -1,3 +1,6 @@
+<?php get_header(); ?>
+<link rel="stylesheet" href="<?php echo get_template_directory_uri() ?>/assets/CSS/floato.css" />
+
 <main class="wrap">
     <div class="list">
         <li class="menu">◇+ 6589</li>
