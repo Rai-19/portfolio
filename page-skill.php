@@ -1,4 +1,4 @@
-<?php get_header('cotact'); ?>
+<?php get_header('skill'); ?>
 
 <link rel="stylesheet" href="<?php echo get_template_directory_uri() ?>/assets/CSS/skill.css" />
 
