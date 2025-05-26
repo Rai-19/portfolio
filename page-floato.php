@@ -1,9 +1,10 @@
-<?php
-get_header();
-?>
+<?php get_header('cotact'); ?>
 <link rel="stylesheet" href="<?php echo get_template_directory_uri() ?>/assets/CSS/floato.css" />
 
 <main class="wrap">
+    <div class="link">
+        <a href="./top.html">トップページに戻る</a>
+    </div>
     <div class="list">
         <li class="menu">◇+ 6589</li>
         <li class="menu">☆+ 206538</li>
