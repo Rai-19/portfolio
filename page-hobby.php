@@ -12,23 +12,7 @@
   </div>
 
   <div class="display">
-    <div class="news-list">
-      <div class="news section" id="section1">
-        <?php the_content() ?>
-      </div>
-      <div class="news section" id="section2">
-        <?php the_content() ?>
-      </div>
-      <div class="news section" id="section3">
-        <?php the_content() ?>
-      </div>
-      <div class="news section" id="section4">
-        <?php the_content() ?>
-      </div>
-      <div class="news section" id="section5">
-        <?php the_content() ?>
-      </div>
-    </div>
+
   </div>
 </main>
 
