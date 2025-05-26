@@ -28,6 +28,5 @@
                 <li data-target="section1"><a href="#section1">サイコロ</a></li>
                 <li data-target="section2"><a href="#section2">ポーカー</a></li>
                 <li data-target="section3"><a href="#section3">アニメーション</a></li>
-                <li data-target="section4"><a href="#section4">ゲーム</a></li>
             </ul>
         </header>
