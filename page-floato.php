@@ -1,4 +1,3 @@
-<?php get_header(); ?>
 <link rel="stylesheet" href="<?php echo get_template_directory_uri() ?>/assets/CSS/floato.css" />
 
 <main class="wrap">
@@ -6,7 +5,7 @@
         <li class="menu">◇+ 6589</li>
         <li class="menu">☆+ 206538</li>
         <li class="menu">♧+ 3580</li>
-        <li class="menu">＄+ 12584</li>
+        <li class="menu">$+ 12584</li>
     </div>
     <div class="CL">
         <div class="box">
