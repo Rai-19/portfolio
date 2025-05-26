@@ -32,13 +32,7 @@
       </p>
       <script async src="https://public.codepenassets.com/embed/index.js"></script>
     </div>
-    <div class="card section" id="section4">
 
-      <a href="<?php echo get_post_type_archive_link('floato'); ?>/page-floato.php">
-        <h2>仮想WEBページへ</h2>
-      </a>
-
-    </div>
   </div>
 </main>
 
