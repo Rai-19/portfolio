@@ -34,7 +34,7 @@
     </div>
     <div class="card section" id="section4">
 
-      <a href="<?php echo get_template_directory_uri() ?>/page-floato.php">
+      <a href="<?php the_permalink() ?>/page-floato.php">
         <h2>仮想WEBページへ</h2>
       </a>
 
